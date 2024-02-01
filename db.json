@@ -1,0 +1,88 @@
+{
+  "programming_languages": [
+    {
+      "title": "Master in JavaScript",
+      "course": "JavaScript",
+      "description": "JavaScript is a versatile scripting language commonly used for web development. It allows developers to add dynamic content, interactivity, and manipulate the Document Object Model (DOM) in browsers.",
+      "photo": "assets/images/Javascript.png",
+      "price": 99.99
+    },
+    {
+      "title": "Expert in PHP",
+      "course": "PHP",
+      "description": "PHP is a server-side scripting language designed for web development. It is widely used for creating dynamic web pages and is embedded in HTML code.",
+      "photo": "assets/images/PHP.png",
+      "price": 89.99
+    },
+    {
+      "title": "Python Guru",
+      "course": "Python",
+      "description": "Python is a high-level programming language known for its readability and simplicity. It is used in various applications, including web development, data analysis, artificial intelligence, and more.",
+      "photo": "assets/images/Python.png",
+      "price": 109.99
+    },
+    {
+      "title": "React Specialist",
+      "course": "React",
+      "description": "React is a JavaScript library for building user interfaces, particularly single-page applications where components update dynamically based on user interactions. It is maintained by Facebook.",
+      "photo": "assets/images/React.png",
+      "price": 119.99
+    },
+    {
+      "title": "Angular Pro",
+      "course": "Angular",
+      "description": "Angular is a TypeScript-based open-source web application framework developed by Google. It facilitates the creation of dynamic, single-page web applications.",
+      "photo": "assets/images/Angular.png",
+      "price": 129.99
+    },
+    {
+      "title": "Java Maestro",
+      "course": "Java",
+      "description": "Java is a widely-used, object-oriented programming language known for its platform independence. It is commonly used in enterprise applications, mobile development, and web development.",
+      "photo": "assets/images/Java.png",
+      "price": 149.99
+    },
+    {
+      "title": "C# Virtuoso",
+      "course": "C#",
+      "description": "C# (C Sharp) is a modern, object-oriented programming language developed by Microsoft. It is often used for building Windows applications, web applications, and game development using the .NET framework.",
+      "photo": "assets/images/CSharp.png",
+      "price": 139.99
+    },
+    {
+      "title": "C++ Wizard",
+      "course": "C++",
+      "description": "C++ is a powerful, general-purpose programming language with a focus on performance and efficiency. It is used in systems/software development, game development, and embedded systems programming.",
+      "photo": "assets/images/C++.png",
+      "price": 159.99
+    },
+    {
+      "title": "HTML & CSS Maestro",
+      "course": "HTML & CSS",
+      "description": "HTML (Hypertext Markup Language) HTML provides the structure",
+      "photo": "assets/images/HTML.png",
+      "price": 79.99
+    },
+    {
+      "title": "CSS Maestro",
+      "course": "CSS",
+      "description": "CSS (Cascading Style Sheets) are fundamental technologies for building and styling web pages. CSS enhances the presentation and layout.",
+      "photo": "assets/images/CSS.png",
+      "price": 79.99
+    },
+    {
+      "title": "Vue.js Expert",
+      "course": "Vue.js",
+      "description": "Vue.js is a progressive JavaScript framework used for building user interfaces. It is designed to be incrementally adoptable, making it easy to integrate into existing projects. Vue.js is known for its simplicity and flexibility.",
+      "photo": "assets/images/Vue.png",
+      "price": 109.99
+    },
+    {
+      "title": "Node.js Ninja",
+      "course": "Node.js",
+      "description": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to run JavaScript on the server side, enabling the development of scalable and high-performance web applications.",
+      "photo": "assets/images/Node.png",
+      "price": 129.99
+    }
+  ]
+}
